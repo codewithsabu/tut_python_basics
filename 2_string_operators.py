@@ -15,8 +15,9 @@
 # program to demonstrate the use of string operators
 string1 = "Hello"
 string2 = "World"
-string3 = string1 + string2 # concatenation
-print(string3) 
+string31 = string1 + string2 # concatenation
+
+print(string31) 
 print(string1 * 3) # repetition
 print(string1[1]) # accessing the character at index 1
 print(string1[1:4]) # slicing the string
